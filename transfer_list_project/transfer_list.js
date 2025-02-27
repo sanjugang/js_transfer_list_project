@@ -41,7 +41,6 @@ function create_checkboxes(array, box) {
   });
 }
 
-// Populate the boxes with the corresponding items
 create_checkboxes(box1Items, box1);
 create_checkboxes(box3Items, box3);
 
