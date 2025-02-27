@@ -3,14 +3,6 @@ const b2 = document.querySelector("#button2");
 const b3 = document.querySelector("#button3");
 const b4 = document.querySelector("#button4");
 
-const js = document.querySelector("#js");
-const html = document.querySelector("#html");
-const css = document.querySelector("#css");
-const ts = document.querySelector("#ts");
-const react = document.querySelector("#react");
-const angular = document.querySelector("#angular");
-const vue = document.querySelector("#vue");
-const svelte = document.querySelector("#svelte");
 
 const box1 = document.querySelector(".box1");
 const box2 = document.querySelector(".box2");
